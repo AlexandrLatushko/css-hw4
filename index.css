@@ -25,8 +25,9 @@
   display: flex;
   justify-content:space-around;
   flex-wrap: wrap;
-  align-content: center;
-  margin: 15px;
+  align-content:center ;
+  margin: 10px;
+  margin-left: -30px;
 }
 
 .list-ithem {
@@ -35,7 +36,7 @@
   font-size: 20px;
   background-color:rgba(240, 248, 255, 0.857);
   padding: 10px;
-  margin: 10px;
+  margin: 1px;
   border-radius: 20px;
 } 
 
